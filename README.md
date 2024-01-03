@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Edwin Mathew! <br/><a href="https://www.linkedin.com/in/edwin-mathew0012/">Cybersecurity Professional</a>
 
-<!--
-**edwinmathew0012/edwinmathew0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Professional Certifications:</h2>
 
-Here are some ideas to get you started:
+- <b>CompTIA Security+ ce certificate</b>
+  - [CompTIA Security+](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing) 
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Google Cybersecurity](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing)
+- <b>CompTIA A+ Cyber Specialization (Currently Enrolled)</b>
+  - [CompTIA A+]
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>CompTIA Security+ ce certificate</b>
+  - [CompTIA Security+](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing) 
