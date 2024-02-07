@@ -3,7 +3,8 @@
 <h2>👨‍💻 Professional Certifications:</h2>
 
 - <b>CompTIA Security+ ce certificate</b>
-  - [CompTIA Security+](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing) 
+<b><b>[<img src="https://i.imgur.com/lRNTwPk.png" width='75'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)</b></b>
+
 - <b>Google Cybersecurity Professional Certificate</b>
   - [Google Cybersecurity](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing)
 - <b>CompTIA A+ Cyber Specialization (Currently Enrolled)</b>
