@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edwin Mathew! <br/><a href="https://www.linkedin.com/in/edwin-mathew0012/">Cybersecurity Professional</a>
+<h1>Hi, I'm Edwin Mathew! <br/><a href="www.linkedin.com/in/edwin-mathew0012"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>👨‍💻 Professional Certifications:</h2>
 
