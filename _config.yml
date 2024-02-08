@@ -4,11 +4,3 @@ description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
-
-title {
- text-align: center;
-}
-
-description {
- text-align: center;
-}
