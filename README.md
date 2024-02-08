@@ -12,7 +12,7 @@
   
 - CompTIA A+ Cyber Specialization (Currently Enrolled) [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)
 
- <img src="./assets/img/newtab.png" width='50'/>
+ <img src="./assets/img/Securityplus.png" width='75'/> <img src="./assets/img/googlecyber.png" width='75'/>
 
 
 ## Projects:
