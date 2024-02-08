@@ -1,5 +1,5 @@
 # Cybersecurity Professional
-[<img src="./assets/img/linkedin.png" width='25'/>](www.linkedin.com/in/edwin-mathew0012)
+[<img src="./assets/img/linkedin.png" width='100'/>](www.linkedin.com/in/edwin-mathew0012)
 
 ## Education:
 - PG Diploma in Wireless Information Networking (April 2023)
