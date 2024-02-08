@@ -16,5 +16,6 @@
 
 
 ## Projects:
+- Splunk Home Lab [<img src="./assets/img/newtab.png" width='25'/>](https://github.com/edwinmathew0012/Splunk-Home-Lab/tree/main)
 
 
