@@ -1,7 +1,5 @@
 # Cybersecurity Professional
 
-[<img src="./assets/img/linkedin.png" width='100'/>](www.linkedin.com/in/edwin-mathew0012)
-
 ## Summary:
 As a recent graduate deeply passionate about cybersecurity, I come prepared with a solid blend of academic knowledge and practical skills honed through rigorous training and industry certifications. My academic journey has provided me with a profound grasp of the complexities within cybersecurity, while my pursuit of professional certifications reflects my dedication to staying ahead in this constantly evolving field.
 
