@@ -1,9 +1,10 @@
 # Cybersecurity Professional
+
 [<img src="./assets/img/linkedin.png" width='100'/>](www.linkedin.com/in/edwin-mathew0012)
 
 ## Education:
 - PG Diploma in Wireless Information Networking (April 2023)
-  -   Fleming College, Peterborough, Ontario
+  -    Fleming College, Peterborough, Ontario </br>
 
 - BSc Electronics (March 2020)
   -    Prajyoti Niketan College, Kerala, India
@@ -17,6 +18,6 @@
 
 
 ## Projects:
-- Splunk Home Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Splunk-Home-Lab/)
+- Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Splunk-Home-Lab/)
 
 
