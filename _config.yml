@@ -1,6 +1,6 @@
 title: Edwin Mathew
 logo: ./assets/img/headshot.png
-description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100'/></a>
+description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100'align="center"/></a>
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
