@@ -13,4 +13,6 @@
 - CompTIA A+ Cyber Specialization (Currently Enrolled) [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)
 
 
+## Projects
+
 
