@@ -1,9 +1,11 @@
 # Cybersecurity Professional
 
 ## Education:
-- PG Diploma in Wireless Information Networking (April 2023)   |   Fleming College, Peterborough, Ontario
+- PG Diploma in Wireless Information Networking (April 2023)
+    -   Fleming College, Peterborough, Ontario
 
-- BSc Electronics (March 2020)   |   Prajyoti Niketan College, Kerala, India
+- BSc Electronics (March 2020)
+    -    Prajyoti Niketan College, Kerala, India
 
 ## Professional Certifications:
 - CompTIA Security+ ce certificate [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)
@@ -12,7 +14,7 @@
   
 - CompTIA A+ Cyber Specialization (Currently Enrolled) [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)
 
- <img src="./assets/img/Securityplus.png" width='75'/> <img src="./assets/img/googlecyber.png" width='75'/>
+ <img src="./assets/img/Securityplus.png" width='100'/> <img src="./assets/img/googlecyber.png" width='100'/>
 
 
 ## Projects:
