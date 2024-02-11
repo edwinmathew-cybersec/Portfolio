@@ -19,4 +19,12 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 ## Projects:
 - Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
 
+## Tools:
+ Splunk | Nessus
+
+
+ [<img src="./assets/img/Splunk.png" width='25'/>]     [<img src="./assets/img/nessus.png" width='25'/>]
+ 
+
+
 
