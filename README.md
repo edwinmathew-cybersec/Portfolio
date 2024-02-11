@@ -20,10 +20,10 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
 
 ## Tools:
- Splunk | Nessus
+Nessus | Splunk
 
 
- <img src="./assets/img/Splunk.png" width='100' style='padding-right:15px'/>    <img src="./assets/img/nessus.png" width='120' style='padding-right:15px'/>
+<img src="./assets/img/nessus.png" width='120' style='padding-right:15px'/>  <img src="./assets/img/Splunk.png" width='100' style='padding-right:15px'/> 
  
 
 
