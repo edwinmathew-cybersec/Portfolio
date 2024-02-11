@@ -1,6 +1,6 @@
-title: Edwin Mathew <a style='padding-left:80px'></a>
+title: Edwin Mathew <style='padding-left:80px'>
 logo: ./assets/img/headshot.png
-description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100' style='padding-left:80px''padding-top:20px'></a>
+description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100' style='padding-left:80px'></a></br>
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
