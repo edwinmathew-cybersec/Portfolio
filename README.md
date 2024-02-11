@@ -13,17 +13,17 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - Google Cybersecurity Professional Certificate [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 - CompTIA A+ Cyber Specialization (Currently Enrolled) [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)
 
- [<img src="./assets/img/Securityplus.png" width='100' padding-right='10px'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)   [<img src="./assets/img/googlecyber.png" width='100' padding-right='10px'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
+ [<img src="./assets/img/Securityplus.png" width='100'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)   [<img src="./assets/img/googlecyber.png" width='100'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 
 
 ## Projects:
 - Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
 
 ## Tools:
- Splunk  Nessus
+ Splunk | Nessus
 
 
- <img src="./assets/img/Splunk.png" width='100' padding-right='10px'/>     <img src="./assets/img/nessus.png" width='110' padding-right='10px'/>
+ <img src="./assets/img/Splunk.png" width='100' style='padding-right:10px'/>    <img src="./assets/img/nessus.png" width='110'/>
  
 
 
