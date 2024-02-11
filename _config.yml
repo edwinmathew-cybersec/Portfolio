@@ -1,6 +1,6 @@
-title: <h1 style='text-align: center;'>Edwin Mathew</h1>
+title: Edwin Mathew
 logo: ./assets/img/headshot.png
-description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100' style='padding-left:80px'></a></br>
+description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100' style='padding-left:80px';'padding-top:20px'></a></br>
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
