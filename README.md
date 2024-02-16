@@ -17,6 +17,7 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 
 
 ## Projects:
+- Vulnerability Management: Scanning And Remediation [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Vulnerability-Management-Scanning-And-Remediation/)
 - Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='25'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
 
 ## Tools:
