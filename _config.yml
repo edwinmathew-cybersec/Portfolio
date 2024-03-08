@@ -12,3 +12,5 @@ theme: jekyll-theme-minimal
 h1.title {
   text-align: center;
 }
+
+</style>
