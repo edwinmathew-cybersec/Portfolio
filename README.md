@@ -8,7 +8,7 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - BSc Electronics (March 2020) - 𝑷𝒓𝒂𝒋𝒚𝒐𝒕𝒊 𝑵𝒊𝒌𝒆𝒕𝒂𝒏 𝑪𝒐𝒍𝒍𝒆𝒈𝒆, 𝑲𝒆𝒓𝒂𝒍𝒂, 𝑰𝒏𝒅𝒊𝒂
 
 ## Professional Certifications:
-- CompTIA Security+ ce certificate [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing) 
+- CompTIA Security+ certificate [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing) 
 - Google Cybersecurity Professional Certificate [<img src="./assets/img/newtab.png" width='25'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 - CompTIA A+ Cyber Specialization (Currently Enrolled)
 
