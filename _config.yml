@@ -7,7 +7,7 @@ github:
 theme: jekyll-theme-minimal
 ---
 
-<style type="text/css">
+<style type="assets/css/style.scss">
 
 h1.title {
   text-align: center;
