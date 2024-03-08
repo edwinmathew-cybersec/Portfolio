@@ -9,6 +9,6 @@ theme: jekyll-theme-minimal
 
 <style type="text/css">
 
-title {
+h1.title {
   text-align: center;
 }
