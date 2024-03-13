@@ -2,7 +2,6 @@
 
 ## Summary:
 As a recent graduate deeply passionate about cybersecurity, I come prepared with a solid blend of academic knowledge and practical skills honed through rigorous training and industry certifications. My academic journey has provided me with a profound grasp of the complexities within cybersecurity, while my pursuit of professional certifications reflects my dedication to staying ahead in this constantly evolving field.
----
 
 ## Education:
 - PG Diploma in Wireless Information Networking (April 2023) - 𝑭𝒍𝒆𝒎𝒊𝒏𝒈 𝑪𝒐𝒍𝒍𝒆𝒈𝒆, 𝑷𝒆𝒕𝒆𝒓𝒃𝒐𝒓𝒐𝒖𝒈𝒉, 𝑶𝒏𝒕𝒂𝒓𝒊𝒐
