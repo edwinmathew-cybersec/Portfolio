@@ -22,7 +22,7 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - Website Development (College Project)  [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Website-Development/)
 
 ## Tools:
- <img src="./assets/img/wireshark.png" width='110' style='padding-right:15px'/>  <img src="./assets/img/nessus.png" width='120' style='padding-right:15px'/>  <img src="./assets/img/Splunk.png" width='100' style='padding-right:15px'/> <img src="./assets/img/wordpress.png" width='120' style='padding-right:15px'/>
+ <img src="./assets/img/wireshark.png" width='110' style='padding-right:15px'/>  <img src="./assets/img/nessus.png" width='120' style='padding-right:15px'/>  <img src="./assets/img/Splunk.png" width='100' style='padding-right:15px'/> <img src="./assets/img/wordpress.png" width='135' style='padding-right:15px'/>
  
 
 
