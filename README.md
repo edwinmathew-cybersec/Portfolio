@@ -12,7 +12,7 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - Google Cybersecurity Professional Certificate [<img src="./assets/img/newtab.png" width='22'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 - CompTIA A+ Cyber Specialization (Currently Enrolled)
 
- [<img src="./assets/img/Securityplus.png" width='100' style='padding-right:10px'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)        [<img src="./assets/img/googlecyber.png" width='110' style='padding-right:10px'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
+ [<img src="./assets/img/Securityplus.png" width='100' style='padding-right:10px'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)        [<img src="./assets/img/googlecyber.png" width='125' style='padding-right:10px'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 
 
 ## Projects:
