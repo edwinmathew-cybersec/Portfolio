@@ -2,6 +2,7 @@
 
 ## Summary:
 As a recent graduate deeply passionate about cybersecurity, I come prepared with a solid blend of academic knowledge and practical skills honed through rigorous training and industry certifications. My academic journey has provided me with a profound grasp of the complexities within cybersecurity, while my pursuit of professional certifications reflects my dedication to staying ahead in this constantly evolving field.
+---
 
 ## Education:
 - PG Diploma in Wireless Information Networking (April 2023) - 𝑭𝒍𝒆𝒎𝒊𝒏𝒈 𝑪𝒐𝒍𝒍𝒆𝒈𝒆, 𝑷𝒆𝒕𝒆𝒓𝒃𝒐𝒓𝒐𝒖𝒈𝒉, 𝑶𝒏𝒕𝒂𝒓𝒊𝒐
@@ -12,7 +13,7 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 - Google Cybersecurity Professional Certificate [<img src="./assets/img/newtab.png" width='22'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 - CompTIA A+ Cyber Specialization (Currently Enrolled)
 
- [<img src="./assets/img/Securityplus.png" width='100' style='padding-right:10px'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)        [<img src="./assets/img/googlecyber.png" width='115' style='padding-right:10px' style='padding-top:10px'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
+ [<img src="./assets/img/Securityplus.png" width='100' style='padding-right:10px'/>](https://drive.google.com/file/d/1aXvH93EPhX6rQyEIiB7YP4amxlukNDKb/view?usp=sharing)        [<img src="./assets/img/googlecyber.png" width='115' style='padding-right:10px'/>](https://drive.google.com/file/d/1y4gSwr5WPsqmgtrhMz9Qry6YRhETzGeh/view?usp=sharing) 
 
 
 ## Projects:
