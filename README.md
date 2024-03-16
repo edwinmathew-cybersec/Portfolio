@@ -16,8 +16,8 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 
 
 ## Projects:
-- Malware Traffic Analysis [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Malware-Traffic-Analysis/)
 - Vulnerability Management: Scanning And Remediation [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Vulnerability-Management-Scanning-And-Remediation/)
+- Malware Traffic Analysis [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Malware-Traffic-Analysis/)
 - Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
 - Website Development (College Project)  [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Website-Development/)
 
