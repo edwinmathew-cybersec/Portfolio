@@ -1,7 +1,7 @@
 # Cybersecurity Professional
 
 ## Summary:
-As a recent graduate deeply passionate about cybersecurity, I come prepared with a solid blend of academic knowledge and practical skills honed through rigorous training and industry certifications. My academic journey has provided me with a profound grasp of the complexities within cybersecurity, while my pursuit of professional certifications reflects my dedication to staying ahead in this constantly evolving field.
+As a recent graduate passionate about cybersecurity, I come prepared with a solid blend of academic knowledge and practical skills honed through rigorous training and industry certifications. My academic journey has provided me with a profound grasp of the complexities of cybersecurity. At the same time, my pursuit of professional certifications reflects my dedication to staying ahead in this constantly evolving field.
 
 ## Education:
 - PG Diploma in Wireless Information Networking (April 2023) - 𝑭𝒍𝒆𝒎𝒊𝒏𝒈 𝑪𝒐𝒍𝒍𝒆𝒈𝒆, 𝑷𝒆𝒕𝒆𝒓𝒃𝒐𝒓𝒐𝒖𝒈𝒉, 𝑶𝒏𝒕𝒂𝒓𝒊𝒐
@@ -16,10 +16,10 @@ As a recent graduate deeply passionate about cybersecurity, I come prepared with
 
 
 ## Projects:
-- Vulnerability Management: Scanning And Remediation [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Vulnerability-Management-Scanning-And-Remediation/)
-- Malware Traffic Analysis [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Malware-Traffic-Analysis/)
-- Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Threat-Actor-Detection-Lab/)
-- Website Development (College Project)  [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew0012.github.io/Website-Development/)
+- Vulnerability Management: Scanning And Remediation [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew-cybersec.github.io/Vulnerability-Management-Scanning-And-Remediation/)
+- Malware Traffic Analysis [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew-cybersec.github.io/Malware-Traffic-Analysis/)
+- Threat Actor Detection Lab [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew-cybersec.github.io/Threat-Actor-Detection-Lab/)
+- Website Development (College Project)  [<img src="./assets/img/newtab.png" width='22'/>](https://edwinmathew-cybersec.github.io/Website-Development/)
 
 ## Tools:
  <img src="./assets/img/wireshark.png" width='120' style='padding-right:15px'/>  <img src="./assets/img/nessus.png" width='120' style='padding-right:15px'/>  <img src="./assets/img/Splunk.png" width='100' style='padding-right:15px'/> <img src="./assets/img/wordpress.png" width='130' style='padding-right:15px'/>
