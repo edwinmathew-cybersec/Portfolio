@@ -1,5 +1,7 @@
 title: Edwin Mathew
-logo: <img src="./assets/img/DP.png" width='100'>
+logo: ./assets/img/DP.png
+logo_size:
+  width: 80
 description: <a href="https://www.linkedin.com/in/edwin-mathew0012"><img src="./assets/img/linkedin.png" width='100' style='padding-left:85px'></a>
 github:
   is_project_page: false
